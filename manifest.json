@@ -1,0 +1,17 @@
+{
+  "name": "Pocket-coin Master",
+  "short_name": "Pocket-coin",
+  "description": "UM app ai ",
+  "lang": "pt-BR",
+  "start_url": "/https://pocketcoin-app.luizfelippefeli.repl.co/",
+  "display": "standalone",
+  "theme_color": "#FFFAF0",
+  "icons": [
+    {
+      "src": "avatar.jpg",
+      "sizes": "512*512",
+      "type": "images/avatar.jpg"
+    }
+  ],
+  "background_color": "#483D8B"
+}
